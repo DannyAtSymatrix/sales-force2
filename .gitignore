@@ -1,0 +1,11 @@
+/target/
+/reports
+.settings/
+.metadata/
+/.apt_generated/
+/.apt_generated_tests/
+.env
+users.csv
+*.jks
+*.html
+.classpath
